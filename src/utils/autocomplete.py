@@ -1,3 +1,4 @@
+
 import difflib
 
 def guess_command(user_input, commands, aliases):
