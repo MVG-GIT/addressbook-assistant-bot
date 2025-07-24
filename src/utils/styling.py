@@ -1,3 +1,4 @@
+
 from colorama import Fore, Back, Style, init
 from rich.table import Table
 from rich import box
